@@ -1,22 +1,27 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Diffence: Fencing Membership Privacy With Diffusion Models"
+    authors: <strong>Yuefeng Peng</strong>, Ali Naseh, Amir Houmansadr
+    conference_short: NDSS
+    conference: Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2312.04692
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Feature-Filter: Detecting Adversarial Examples through Filtering off Recessive Features"
+    authors: ui Liu, Bo Zhao, Minzhi Ji, <strong>Yuefeng Peng</strong>, Jiabao Guo, Peng Liu
+    # conference_short: 
+    conference: "Applied Soft Computing (IF: 8.263), 2022."
+    pdf: https://arxiv.org/abs/2107.09502
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
+  - title: "Unsupervised Membership Inference Attacks against Machine Learning Models"
+    authors: Yuefeng Peng, Bo Zhao, Hui Liu, Yang An
+    conference_short: PriML
+    conference: "NeurIPS Workshop on Privacy in Machine Learning <strong>(NeurIPS-PriML)</strong>, 2021"
+    pdf: https://openreview.net/forum?id=lvjmpl00jqF
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png

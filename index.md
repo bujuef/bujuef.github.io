@@ -4,19 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi, I'm Yuefeng Peng. I am a PhD student in Computer Science at UMass Amherst advised by [Professor Amir Houmansadr](https://people.cs.umass.edu/~amir/). My research focuses on trustworthy AI, including developing attacks and defenses against various ML models.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Trustworthy AI** 
+- **Privacy Enhancing Technologies**
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
