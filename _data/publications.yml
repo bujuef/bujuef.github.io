@@ -7,22 +7,26 @@ main:
     pdf: https://arxiv.org/abs/2312.04692
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/diffence.png
     # notes: Early Accept
 
   - title: "OSLO: One-Shot Label-Only Membership Inference Attacks"
     authors: <strong>Yuefeng Peng</strong>, Jaechul Roh, Subhransu Maji, Amir Houmansadr
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2312.04692
+    pdf: https://arxiv.org/abs/2405.16978
+    image: ./assets/img/oslo.png
 
   - title: "Feature-Filter: Detecting Adversarial Examples through Filtering off Recessive Features"
     authors: Hui Liu, Bo Zhao, Minzhi Ji, <strong>Yuefeng Peng</strong>, Jiabao Guo, Peng Liu
+    conference_short: Appl. Soft Comput.
     conference: "Applied Soft Computing (IF: 8.263), 2022."
     pdf: https://arxiv.org/abs/2107.09502
+    image: ./assets/img/feature_filter.png
 
   - title: "Unsupervised Membership Inference Attacks against Machine Learning Models"
     authors: <strong>Yuefeng Peng</strong>, Bo Zhao, Hui Liu, Yang An
-    conference_short: PriML
+    conference_short: NeurIPS-PriML
     conference: "NeurIPS Workshop on Privacy in Machine Learning <strong>(NeurIPS-PriML)</strong>, 2021"
     pdf: https://openreview.net/forum?id=lvjmpl00jqF
+    image: ./assets/img/umia.png
