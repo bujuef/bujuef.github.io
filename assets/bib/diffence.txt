@@ -1,0 +1,6 @@
+@inproceedings{peng2025diffence,
+  title     = {Diffence: Fencing Membership Privacy With Diffusion Models},
+  author    = {Peng, Yuefeng and Naseh, Ali and Houmansadr, Amir},
+  booktitle = {Proceedings of the Network and Distributed System Security Symposium (NDSS)},
+  year      = {2025}
+}

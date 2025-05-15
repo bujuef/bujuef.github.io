@@ -1,0 +1,6 @@
+@inproceedings{peng2021unsupervised,
+  title={Unsupervised membership inference attacks against machine learning models},
+  author={Peng, Yuefeng and Zhao, Bo and Liu, Hui and An, Yang},
+  booktitle={NeurIPS 2021 Workshop Privacy in Machine Learning},
+  year={2021}
+}

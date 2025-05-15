@@ -1,0 +1,6 @@
+@inproceedings{peng2024oslo,
+title={{OSLO}: One-Shot Label-Only Membership Inference Attacks},
+author={Yuefeng Peng and Jaechul Roh and Subhransu Maji and Amir Houmansadr},
+booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+year={2024}
+}

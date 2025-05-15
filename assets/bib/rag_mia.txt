@@ -1,0 +1,6 @@
+@inproceedings{naseh2025riddle,
+  title = {Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation},
+  author = {Naseh, Ali and Peng, Yuefeng and Suri, Anshuman and Chaudhari, Harsh and Oprea, Alina and Houmansadr, Amir},
+  booktitle = {ACM SIGSAC Conference on Computer and Communications Security (CCS)},
+  year = {2025}
+}

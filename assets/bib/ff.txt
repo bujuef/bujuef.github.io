@@ -1,0 +1,9 @@
+@article{liu2022feature,
+  title={Feature-filter: Detecting adversarial examples by filtering out recessive features},
+  author={Liu, Hui and Zhao, Bo and Ji, Minzhi and Peng, Yuefeng and Guo, Jiabao and Liu, Peng},
+  journal={Applied Soft Computing},
+  volume={124},
+  pages={109027},
+  year={2022},
+  publisher={Elsevier}
+}

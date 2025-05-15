@@ -1,0 +1,6 @@
+@article{peng2024data,
+  title={Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors},
+  author={Peng, Yuefeng and Wang, Junda and Yu, Hong and Houmansadr, Amir},
+  journal={arXiv preprint arXiv:2411.01705},
+  year={2024}
+}
