@@ -1,0 +1,6 @@
+@article{suri2025exploiting,
+  title = {Exploiting Leaderboards for Large-Scale Distribution of Malicious Models},
+  author = {Suri, Anshuman and Chaudhari, Harsh and Peng, Yuefeng and Naseh, Ali and Oprea, Alina and Houmansadr, Amir},
+  journal = {arXiv preprint arXiv:2507.08983},
+  year = {2025}
+}

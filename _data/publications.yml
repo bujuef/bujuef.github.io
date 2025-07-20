@@ -1,5 +1,13 @@
 main:
 
+  - title: "Exploiting Leaderboards for Large-Scale Distribution of Malicious Models"
+    authors: Anshuman Suri*, Harsh Chaudhari*, <strong>Yuefeng Peng*</strong>, and Ali Naseh*, Alina Oprea, Amir Houmansadr (*Equal contribution)
+    conference_short: arXiv
+    conference: arXiv preprint, Jul 2024.
+    pdf: https://arxiv.org/abs/2507.08983
+    image: ./assets/img/leaderboard_main.png
+    bibtex: ./assets/bib/leaderboard.txt
+  
   - title: "Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors"
     authors: <strong>Yuefeng Peng*</strong>, Junda Wang*, Hong Yu, Amir Houmansadr (*Equal contribution)
     conference_short: arXiv
@@ -35,18 +43,18 @@ main:
     image: ./assets/img/oslo.png
     bibtex: ./assets/bib/oslo.txt
 
-  - title: "Feature-Filter: Detecting Adversarial Examples through Filtering off Recessive Features"
-    authors: Hui Liu, Bo Zhao, Minzhi Ji, <strong>Yuefeng Peng</strong>, Jiabao Guo, Peng Liu
-    conference_short: Appl. Soft Comput.
-    conference: "Applied Soft Computing (IF: 8.263), 2022."
-    pdf: https://arxiv.org/abs/2107.09502
-    image: ./assets/img/feature_filter.png
-    bibtex: ./assets/bib/ff.txt
+  # - title: "Feature-Filter: Detecting Adversarial Examples through Filtering off Recessive Features"
+  #   authors: Hui Liu, Bo Zhao, Minzhi Ji, <strong>Yuefeng Peng</strong>, Jiabao Guo, Peng Liu
+  #   conference_short: Appl. Soft Comput.
+  #   conference: "Applied Soft Computing (IF: 8.263), 2022."
+  #   pdf: https://arxiv.org/abs/2107.09502
+  #   image: ./assets/img/feature_filter.png
+  #   bibtex: ./assets/bib/ff.txt
 
-  - title: "Unsupervised Membership Inference Attacks against Machine Learning Models"
-    authors: <strong>Yuefeng Peng</strong>, Bo Zhao, Hui Liu, Yang An
-    conference_short: NeurIPS-PriML
-    conference: "NeurIPS Workshop on Privacy in Machine Learning <strong>(NeurIPS-PriML)</strong>, 2021"
-    pdf: https://openreview.net/forum?id=lvjmpl00jqF
-    image: ./assets/img/umia.png
-    bibtex: ./assets/bib/umia.txt
+  # - title: "Unsupervised Membership Inference Attacks against Machine Learning Models"
+  #   authors: <strong>Yuefeng Peng</strong>, Bo Zhao, Hui Liu, Yang An
+  #   conference_short: NeurIPS-PriML
+  #   conference: "NeurIPS Workshop on Privacy in Machine Learning <strong>(NeurIPS-PriML)</strong>, 2021"
+  #   pdf: https://openreview.net/forum?id=lvjmpl00jqF
+  #   image: ./assets/img/umia.png
+  #   bibtex: ./assets/bib/umia.txt
