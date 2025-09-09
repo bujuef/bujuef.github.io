@@ -1,12 +1,4 @@
 main:
-
-  - title: "Exploiting Leaderboards for Large-Scale Distribution of Malicious Models"
-    authors: Anshuman Suri*, Harsh Chaudhari*, <strong>Yuefeng Peng*</strong>, and Ali Naseh*, Alina Oprea, Amir Houmansadr (*Equal contribution)
-    conference_short: arXiv
-    conference: arXiv preprint, Jul 2025.
-    pdf: https://arxiv.org/abs/2507.08983
-    image: ./assets/img/leaderboard_main.png
-    bibtex: ./assets/bib/leaderboard.txt
   
   - title: "Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors"
     authors: <strong>Yuefeng Peng*</strong>, Junda Wang*, Hong Yu, Amir Houmansadr (*Equal contribution)
@@ -15,6 +7,14 @@ main:
     pdf: https://arxiv.org/abs/2411.01705
     image: ./assets/img/backdoor_rag.png
     bibtex: ./assets/bib/backdoorrag.txt
+
+  - title: "Exploiting Leaderboards for Large-Scale Distribution of Malicious Models"
+    authors: Anshuman Suri*, Harsh Chaudhari*, <strong>Yuefeng Peng*</strong>, and Ali Naseh*, Amir Houmansadr, Alina Oprea (*Equal contribution)
+    conference_short: Oakland
+    conference: IEEE Symposium on Security and Privacy <strong>(IEEE S&P)</strong>, 2026. 
+    pdf: https://arxiv.org/abs/2507.08983
+    image: ./assets/img/leaderboard_main.png
+    bibtex: ./assets/bib/leaderboard.txt
 
   - title: "Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation"
     authors: Ali Naseh*, <strong>Yuefeng Peng*</strong>, Anshuman Suri*, Harsh Chaudhari, Alina Oprea, Amir Houmansadr (*Equal contribution)
