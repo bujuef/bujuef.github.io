@@ -1,6 +1,6 @@
-@article{suri2025exploiting,
+@inproceedings{suri2026exploiting,
   title = {Exploiting Leaderboards for Large-Scale Distribution of Malicious Models},
   author = {Suri, Anshuman and Chaudhari, Harsh and Peng, Yuefeng and Naseh, Ali and Oprea, Alina and Houmansadr, Amir},
-  journal = {arXiv preprint arXiv:2507.08983},
-  year = {2025}
+  booktitle = {IEEE Symposium on Security and Privacy (S&P)},
+  year = {2026}
 }
